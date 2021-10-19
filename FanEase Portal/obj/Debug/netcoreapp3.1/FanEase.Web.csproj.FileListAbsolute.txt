@@ -244,4 +244,4 @@ C:\Users\user\Desktop\Fan-Ease\FanEase Portal\obj\Debug\netcoreapp3.1\FanEase.We
 C:\Users\user\Desktop\Fan-Ease\FanEase Portal\obj\Debug\netcoreapp3.1\FanEase.Web.pdb
 C:\Users\user\Desktop\Fan-Ease\FanEase Portal\obj\Debug\netcoreapp3.1\FanEase.Web.genruntimeconfig.cache
 C:\Users\user\Desktop\Fan-Ease\FanEase Portal\obj\Debug\netcoreapp3.1\Razor\Views\Login\Home.cshtml.g.cs
-C:\Users\user\Desktop\Fan-Ease\FanEase Portal\obj\Debug\netcoreapp3.1\Razor\Views\Home.cshtml.g.cs
+C:\Users\user\Desktop\Fan-Ease\FanEase Portal\obj\Debug\netcoreapp3.1\Razor\Views\AddVideo\AddVideoView.cshtml.g.cs

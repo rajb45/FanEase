@@ -11,3 +11,16 @@ C:\Users\X270\source\FanEase\FanEase-Portal\FanEase.Service\obj\Debug\netcoreapp
 C:\Users\X270\source\FanEase\FanEase-Portal\FanEase.Service\obj\Debug\netcoreapp3.1\FanEase.Service.csproj.CopyComplete
 C:\Users\X270\source\FanEase\FanEase-Portal\FanEase.Service\obj\Debug\netcoreapp3.1\FanEase.Service.dll
 C:\Users\X270\source\FanEase\FanEase-Portal\FanEase.Service\obj\Debug\netcoreapp3.1\FanEase.Service.pdb
+C:\Users\user\Desktop\Fan-Ease\FanEase.Service\bin\Debug\netcoreapp3.1\FanEase.Service.deps.json
+C:\Users\user\Desktop\Fan-Ease\FanEase.Service\bin\Debug\netcoreapp3.1\FanEase.Service.dll
+C:\Users\user\Desktop\Fan-Ease\FanEase.Service\bin\Debug\netcoreapp3.1\FanEase.Service.pdb
+C:\Users\user\Desktop\Fan-Ease\FanEase.Service\bin\Debug\netcoreapp3.1\FanEase.Model.dll
+C:\Users\user\Desktop\Fan-Ease\FanEase.Service\bin\Debug\netcoreapp3.1\FanEase.Model.pdb
+C:\Users\user\Desktop\Fan-Ease\FanEase.Service\obj\Debug\netcoreapp3.1\FanEase.Service.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Fan-Ease\FanEase.Service\obj\Debug\netcoreapp3.1\FanEase.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Fan-Ease\FanEase.Service\obj\Debug\netcoreapp3.1\FanEase.Service.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Fan-Ease\FanEase.Service\obj\Debug\netcoreapp3.1\FanEase.Service.AssemblyInfo.cs
+C:\Users\user\Desktop\Fan-Ease\FanEase.Service\obj\Debug\netcoreapp3.1\FanEase.Service.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Fan-Ease\FanEase.Service\obj\Debug\netcoreapp3.1\FanEase.Service.dll
+C:\Users\user\Desktop\Fan-Ease\FanEase.Service\obj\Debug\netcoreapp3.1\FanEase.Service.pdb
+C:\Users\user\Desktop\Fan-Ease\FanEase.Service\obj\Debug\netcoreapp3.1\FanEase.Service.csproj.CopyComplete
