@@ -11,7 +11,6 @@ C:\Users\X270\source\FanEase\FanEase-Portal\FanEase.Model\obj\Debug\netcoreapp3.
 C:\Users\user\Desktop\Fan-Ease\FanEase.Model\bin\Debug\netcoreapp3.1\FanEase.Model.deps.json
 C:\Users\user\Desktop\Fan-Ease\FanEase.Model\bin\Debug\netcoreapp3.1\FanEase.Model.dll
 C:\Users\user\Desktop\Fan-Ease\FanEase.Model\bin\Debug\netcoreapp3.1\FanEase.Model.pdb
-C:\Users\user\Desktop\Fan-Ease\FanEase.Model\obj\Debug\netcoreapp3.1\FanEase.Model.csproj.AssemblyReference.cache
 C:\Users\user\Desktop\Fan-Ease\FanEase.Model\obj\Debug\netcoreapp3.1\FanEase.Model.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\user\Desktop\Fan-Ease\FanEase.Model\obj\Debug\netcoreapp3.1\FanEase.Model.AssemblyInfoInputs.cache
 C:\Users\user\Desktop\Fan-Ease\FanEase.Model\obj\Debug\netcoreapp3.1\FanEase.Model.AssemblyInfo.cs
