@@ -1,0 +1,10 @@
+C:\Users\X270\source\FanEase\FanEase-Portal\FanEase.Model\bin\Debug\netcoreapp3.1\FanEase.Model.deps.json
+C:\Users\X270\source\FanEase\FanEase-Portal\FanEase.Model\bin\Debug\netcoreapp3.1\FanEase.Model.dll
+C:\Users\X270\source\FanEase\FanEase-Portal\FanEase.Model\bin\Debug\netcoreapp3.1\FanEase.Model.pdb
+C:\Users\X270\source\FanEase\FanEase-Portal\FanEase.Model\obj\Debug\netcoreapp3.1\FanEase.Model.csproj.AssemblyReference.cache
+C:\Users\X270\source\FanEase\FanEase-Portal\FanEase.Model\obj\Debug\netcoreapp3.1\FanEase.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\X270\source\FanEase\FanEase-Portal\FanEase.Model\obj\Debug\netcoreapp3.1\FanEase.Model.AssemblyInfoInputs.cache
+C:\Users\X270\source\FanEase\FanEase-Portal\FanEase.Model\obj\Debug\netcoreapp3.1\FanEase.Model.AssemblyInfo.cs
+C:\Users\X270\source\FanEase\FanEase-Portal\FanEase.Model\obj\Debug\netcoreapp3.1\FanEase.Model.csproj.CoreCompileInputs.cache
+C:\Users\X270\source\FanEase\FanEase-Portal\FanEase.Model\obj\Debug\netcoreapp3.1\FanEase.Model.dll
+C:\Users\X270\source\FanEase\FanEase-Portal\FanEase.Model\obj\Debug\netcoreapp3.1\FanEase.Model.pdb
