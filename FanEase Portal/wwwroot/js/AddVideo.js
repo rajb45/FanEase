@@ -14,23 +14,22 @@
 
 
 
+//document.getElementById("option2").click(){
+//    mp4.style.display = block;
+//    console.log("2");
 
-//function videotype(code) {
-//    var opt1 = document.getElementById("option1");
+//}
+
+
+
+
+//function radio_op2() {
+//    //var opt1 = document.getElementById("option1");
 //    var opt2 = document.getElementById("option2");
-//    if (code == 1) {
-        
+//    var mp4 = document.getElementById("lbl_mp4videoFile");
 
-//        opt1.disabled = false;
-//        opt2.disabled = true;
-//        console.log("1");
-        
-//    }
-//    else if (code == 2) {
 
-//        opt2.disabled = false;
-       
-//        opt1.disabled = true;
+//        mp4.style.display = block;
 //        console.log("2");
-//    }
+    
 //}

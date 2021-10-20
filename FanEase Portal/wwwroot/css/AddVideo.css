@@ -3,17 +3,20 @@
 /* BASIC */
 
 html {
-    background-color: #56baed;
+    /*background-color: #56baed;*/
+    background-color: #F5F5F5;
 }
 
 body {
     font-family: "Poppins", sans-serif;
     height: 100vh;
-    background-color: #56baed;
+    /*background-color: #56baed;*/
 }
-
+#nav {
+    background-color:#56baed;
+}
 a {
-    color: #92badd;
+    color: white;
     display: inline-block;
     text-decoration: none;
     font-weight: 400;
@@ -80,7 +83,7 @@ input[type=button], input[type=submit], input[type=reset] {
     }
 
 .card {
-    background-color: #56baed;
+    /*background-color: #56baed;*/
 }
 
 #containercontact {
@@ -168,4 +171,21 @@ input[type=text]{
 #btnCancel,#btnProceed{
     width:230px;
     text-align:center;
+}
+
+#sidebar {
+    background-color: #56baed;
+    color: white;
+    border:1px solid white;
+}
+#navbarTogglerDemo03{
+    color:white;
+}
+
+#sidetext {
+    color: white;
+}
+
+[name=text_white]{
+    color:white;
 }
