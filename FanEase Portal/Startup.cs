@@ -63,7 +63,7 @@ namespace FanEase_Portal
             {
                 endpoints.MapControllerRoute(
                     name: "default",
-                    pattern: "{controller=AddCampaign}/{action=AddCampaignView}/{id?}");
+                    pattern: "{controller=Login}/{action=Index}/{id?}");
             });
         }
     }
