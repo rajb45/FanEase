@@ -245,3 +245,5 @@ C:\Users\user\Desktop\Fan-Ease\FanEase Portal\obj\Debug\netcoreapp3.1\FanEase.We
 C:\Users\user\Desktop\Fan-Ease\FanEase Portal\obj\Debug\netcoreapp3.1\FanEase.Web.genruntimeconfig.cache
 C:\Users\user\Desktop\Fan-Ease\FanEase Portal\obj\Debug\netcoreapp3.1\Razor\Views\Login\Home.cshtml.g.cs
 C:\Users\user\Desktop\Fan-Ease\FanEase Portal\obj\Debug\netcoreapp3.1\Razor\Views\AddVideo\AddVideoView.cshtml.g.cs
+C:\Users\user\Desktop\Fan-Ease\FanEase Portal\obj\Debug\netcoreapp3.1\Razor\Views\AddCampaign\AddCampaignView.cshtml.g.cs
+C:\Users\user\Desktop\Fan-Ease\FanEase Portal\obj\Debug\netcoreapp3.1\Razor\Views\AddCampaign\ExistingCampaign.cshtml.g.cs
