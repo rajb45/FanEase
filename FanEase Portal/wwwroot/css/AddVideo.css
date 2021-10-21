@@ -71,7 +71,7 @@ input[type=button], input[type=submit], input[type=reset] {
 }
 
     input[type=button]:hover, input[type=submit]:hover, input[type=reset]:hover {
-        background-color: #39ace7;
+        background-color: dodgerblue;
     }
 
     input[type=button]:active, input[type=submit]:active, input[type=reset]:active {
@@ -182,10 +182,26 @@ input[type=text]{
     color:white;
 }
 
-#sidetext {
-    color: white;
-}
+
+
 
 [name=text_white]{
     color:white;
+}
+#sidebar > a:hover {
+    background-color: dodgerblue;
+    
+}
+
+#try > a > input[type=button] {
+    background-color: #56baed;
+    width: 210px;
+    color: black;
+    text-align: left;
+}
+#try2 > a > input[type=button] {
+    background-color: #56baed;
+    width: 200px;
+    color: black;
+    text-align: center;
 }
